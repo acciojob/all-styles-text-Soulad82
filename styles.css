@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-#main {
+.main {
   width: 200px;              /* or whatever width the question specifies */
   background-color: purple;  /* as per requirement */
   border-left-color: green;
