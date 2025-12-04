@@ -6,7 +6,7 @@
   border-left-color: green;
   border-left-style: solid;
   border-left-width: 5px;    /* the thickness mentioned */
-  padding-left: 10px;        /* as specified */
+  padding: 10px;        /* as specified */
 }
 
 #heading {
