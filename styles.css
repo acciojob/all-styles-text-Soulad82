@@ -1,15 +1,15 @@
 
 /* Your CSS Code here. */
-.main {
+#main {
   width: 200px;              /* or whatever width the question specifies */
   background-color: purple;  /* as per requirement */
   border-left-color: green;
   border-left-style: solid;
-  border-left-width: 4px;    /* the thickness mentioned */
+  border-left-width: 5px;    /* the thickness mentioned */
   padding-left: 10px;        /* as specified */
 }
 
-.heading {
+#heading {
   text: "This is a heading";   /* this is just the content in HTML, not real CSS */
   font-size: 20px;             /* size from question */
   font-family: Arial, sans-serif;
